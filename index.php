@@ -9,7 +9,7 @@
 
     $product = new Product();
     $product->setName("Album1");
-    $product->setPrice(5000);
+    $product->setPrice(6000);
     $product->setDiscount(15);
     $name = $product->getName();
     $price = $product->getPrice();
